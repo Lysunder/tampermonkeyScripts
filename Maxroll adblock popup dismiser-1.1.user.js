@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name Maxroll adblock popup dismiser
 // @version 1.1
-// @author PartMent
+// @author Lysandus + Google Gemini
 // @description Automatically close the maxroll adblock popup
 // @match https://maxroll.gg/*
 // @license MIT
